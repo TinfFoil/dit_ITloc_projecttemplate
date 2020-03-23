@@ -1,0 +1,29 @@
+DIT Software Localisation 2020 Final Project
+
+Localisation Team: [Write your names here]
+
+Language: [fr,it,es]
+
+1. Overview
+
+[A couple of sentences describing what you did]
+
+2. Translation decisions and policies that might require attention
+
+[Verbs, plural/singular policies]
+[Words/phrases you have decided not to translate]
+[Words/phrases for which you are not sure you picked the right translation]
+[Entries which length is significantly different wrt the source]
+
+3. Contents included as additional materials
+
+[A description of the elements included as additional materials]
+
+4. Used tools
+
+[Describe all tools you might have used, and what you used them for:
+editors, CATs, glossaries, any other resource or software]
+
+5. References
+
+[In case you need to cite any printed/online material]
