@@ -36,7 +36,8 @@ These include translation memories and glossaries. If you have created any of th
 
 File written_report.txt contains a template on the report you should submit, along with the localisation files and 
 (potential) additional material. This is just a template, including the minimal reasonable sections. You can add 
-additional contents at will.
+additional contents at will. Think of this as the report you would send to your employer/client when submitting 
+the localisation
 
 You can submit your written report in three alternative formats:
 
