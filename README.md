@@ -4,8 +4,9 @@
 
 1. Description of the project
 2. Files and Folders
-2.1 Values folder
-2.2 Academic Integrity 
+   - Values folder
+   - Written Report
+   - Academic Integrity 
 
 ## Description of the project
 
