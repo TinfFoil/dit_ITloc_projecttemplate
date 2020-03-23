@@ -5,6 +5,7 @@
 1. Description of the project
 2. Files and Folders
    - Values folder
+   - Additional materials
    - Written Report
    - Academic Integrity 
 
@@ -22,7 +23,15 @@ keep track of the development.
 
 ### Values folder
 
-An empty folder with name "values". You should add your localisation files here. I expect only XML files. 
+An empty folder with name "values". You should add your localisation files here. I expect only XML files.  Do not add any additional characters to the file names. For instance, use **strings.xml**, not strings_myteam.xml. Do not create any subfolder.
+
+### Additional material
+
+In order to produce a high-quality localisation, you might need to create some additional resources. 
+These include translation memories and glossaries. If you have created any of these, feel free to put them here
+(and do not forget to describe them in your written report).
+
+
 
 ### Academic Integrity
 
