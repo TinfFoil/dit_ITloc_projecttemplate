@@ -8,6 +8,7 @@
    - Additional materials folder
    - Written Report
    - Academic Integrity 
+3. Integrity
 
 ## Overview
 
@@ -82,6 +83,8 @@ I John Smith, declare...
 
 This file is derived from Columbia's Law School [certifications](https://www.law.columbia.edu/academic-rules/certifications-academic-integrity#written-work)
 
+## Integrity
+
 No misconduct will be tolerated. If you plagiarise, ghost write or 
-commit any other fault, you risk to fail the course. Play fair and 
-avoid any source of conflict. 
+commit any other fault, you risk to fail the course. Please: 
+**play fair and avoid any source of conflict**. 
