@@ -2,14 +2,14 @@
 
 ## Contents
 
-1. Description of the project
+1. Overview
 2. Files and Folders
    - Values folder
-   - Additional materials
+   - Additional materials folder
    - Written Report
    - Academic Integrity 
 
-## Description of the project
+## Overview
 
 This project contains the templates for the software localisation final project submission. 
 
@@ -25,13 +25,25 @@ keep track of the development.
 
 An empty folder with name "values". You should add your localisation files here. I expect only XML files.  Do not add any additional characters to the file names. For instance, use **strings.xml**, not strings_myteam.xml. Do not create any subfolder.
 
-### Additional material
+### Additional materials folder
 
 In order to produce a high-quality localisation, you might need to create some additional resources. 
 These include translation memories and glossaries. If you have created any of these, feel free to put them here
 (and do not forget to describe them in your written report).
 
+### Written Report
 
+File written_report.txt contains a template on the report you should submit, along with the localisation files and 
+(potential) additional material. This is just a template, including the minimal reasonable sections. You can add 
+additional contents at will.
+
+You can submit your written report in three alternative formats:
+
+- A a plain-text txt file 
+- A pdf file, produced with Latex, LibreOffice, MS Word, or any other software
+- An html file
+
+Unless you are adding figures or require some special formatting, a txt file should be enough.
 
 ### Academic Integrity
 
