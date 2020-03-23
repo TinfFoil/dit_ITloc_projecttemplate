@@ -25,11 +25,12 @@ keep track of the development.
 
 An empty folder with name "values". You should add your localisation files here. I expect only XML files.  Do not add any additional characters to the file names. For instance, use **strings.xml**, not strings_myteam.xml. Do not create any subfolder.
 
+(I know the name of the folder should be values-ll, where ll is es, fr, or it; do not worry about this)
+
 ### Additional materials folder
 
 In order to produce a high-quality localisation, you might need to create some additional resources. 
-These include translation memories and glossaries. If you have created any of these, feel free to put them here
-(and do not forget to describe them in your written report).
+These include translation memories and glossaries. If you have created any of these, feel free to put them in folder **additional_materials** (and do not forget to describe them in your written report).
 
 ### Written Report
 
