@@ -83,14 +83,13 @@ Of course!
 
 ### Q: Can I jump to the second call with the same project?
 
-No. If you opt for the second call, you will start one new project (a new app) 
+No. If you opt for the second call, you will start a new project (a new app) 
 from scratch.
 
 ### Q: Can I go to the second call alone?
 
 No. The same rules as for the first call apply to the second call. As soon as 
-there is at least one more person presenting the exam, you will become part of 
-a team.
+there is at least one more person presenting the exam, you will compose a team.
 
 **Note** There might be _exceptional_ cases in which one student has no other 
 option but working alone. If you think you are one of them, talk to me.
@@ -102,9 +101,11 @@ can opt for going for the second call.
 
 ## Other topics
 
-### Should I comply to the assistance rule to present the exam?
+### Should I comply to the attendance rule to present the exam?
 
-This rule was suspended from the beginning of the online course. In terms of 
-our course, that means since the fourth session, on March 3rd. 
+This rule was suspended from the beginning of the online sessions. In terms of 
+our course, that means since the fourth session, on March 3rd. Given that 
+before that we had only three lessons, and following the instructions of the 
+department, the attendance requirement will be neglected.
 
 ### End of the FAQ
