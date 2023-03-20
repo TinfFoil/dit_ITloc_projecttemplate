@@ -39,6 +39,10 @@ subfolder.
 (I know the name of the folder should be values-ll, where ll is 
 es, fr, or it; do not worry about this.)
 
+If you need to submit a localized file, not coming from the 
+values folder, please add it to the additional materials folder 
+and describe it accordingly. 
+
 ### Additional materials folder
 
 In order to produce a high-quality localization, you might need to 
