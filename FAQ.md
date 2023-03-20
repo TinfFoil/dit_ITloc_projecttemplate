@@ -1,7 +1,7 @@
-# FAQ for SoftLoc 2020 Final Project and Evaluation
+# FAQ for IT Loc 2023 Final Project and Evaluation
 
 This FAQ contains all kind of questions regarding the evaluation process for the 
-Software Localisation course. If an aspect is missing or is not properly 
+IT Localization 2023 course. If an aspect is missing or is not properly 
 addressed here, do not hesitate to get in touch.
 
 I divide the FAQ in a number of topics. 
@@ -15,11 +15,11 @@ The two team members and the instructor.
 ### Q. What kind of questions are going to be asked?
 
 The oral session tries to partially _mimic_ the discussion between the 
-localisation team (you) and the client that requested the project (me).
+localization team (you) and the client that requested the project (me).
 
 Expect questions asking you to justify your actions, decisions, or lack of them. 
 Expect also questions which purpose is to fill any gap observed in your report 
-or localisation files.
+or localization files.
 
 ## The written report
 
@@ -49,7 +49,7 @@ your work and how it reflects your knowledge.
 
 I suggest to submit them long before the deadline (e.g., at least one week in 
 advance). If I find that your file(s) is broken, I will notify you and you will 
-have some days amend it ---always before the deadline. 
+have some time to amend it ---always before the deadline. 
 
 **Note** This should be _exceptional_. I am happy to give you the chance to 
 amend your submission, but (a) I expect to have to do it only for a handful of 
@@ -67,13 +67,9 @@ project.
 Both members of the team will receive the same score. Once again: it is one 
 whole project being evaluated. Hence: 
 (a) get sure your workload is fair, 
-(b) get sure you are all aware of and happy with all decisions and features, and
+(b) get sure you are both aware of and happy with all decisions and features, and
 (c) come prepared to the oral discussion (e.g., avoid answers of the kind "I was 
 not in charge of that").
-
-**Note** There might be _exceptional_ cases in which one of the students 
-receives a higher score. But I really mean _exceptional_. For instance, the kind 
-of situation in which one of the team members fails the course.
 
 ## Opting for the second call
 
@@ -83,29 +79,16 @@ Of course!
 
 ### Q: Can I jump to the second call with the same project?
 
-No. If you opt for the second call, you will start a new project (a new app) 
-from scratch.
+The current project is valid for both dates of the so-called 1st appello (most likely 
+in June). If you are planning to take part of the appello in September, that involves
+working on a different project.
 
 ### Q: Can I go to the second call alone?
 
 No. The same rules as for the first call apply to the second call. As soon as 
 there is at least one more person presenting the exam, you will compose a team.
 
-**Note** There might be _exceptional_ cases in which one student has no other 
-option but working alone. If you think you are one of them, talk to me.
-
-### Q: Can only one member of the first-call team opt for a second call?
-
-Yes. If one member is happy with her/his score and the other is not, the latter 
-can opt for going for the second call. 
-
 ## Other topics
 
-### Should I comply to the attendance rule to present the exam?
-
-This rule was suspended from the beginning of the online sessions. In terms of 
-our course, that means since the fourth session, on March 3rd. Given that 
-before that we had only three lessons, and following the instructions of the 
-department, the attendance requirement will be neglected.
 
 ### End of the FAQ
