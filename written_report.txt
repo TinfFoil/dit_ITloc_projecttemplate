@@ -1,8 +1,8 @@
-DIT Software Localisation 2020 Final Project
+DIT IT Localisation 2023 Final Project
 
 Localisation Team: [Write your names here]
 
-Language: [fr,it,es]
+Target language: [it,es]
 
 1. Overview
 
