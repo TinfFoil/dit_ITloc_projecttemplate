@@ -1,4 +1,4 @@
-# DIT Software Localisation 2020 Project Template
+# DIT IT Localisation 2023 Project Template
 
 ## Contents
 
