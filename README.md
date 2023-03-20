@@ -82,7 +82,7 @@ and your name is John Smith, you should write
 
 I John Smith, declare...
 
-This file is derived from Columbia's Law School [certifications](https://www.law.columbia.edu/academic-rules/certifications-academic-integrity#written-work)
+This file is derived from Columbia's Law School [certifications](https://www.law.columbia.edu/sites/default/files/2020-02/PAPER-CERT.pdf)
 
 ## Integrity
 
