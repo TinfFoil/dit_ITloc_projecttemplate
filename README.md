@@ -1,4 +1,4 @@
-# DIT IT Localisation 2023 Project Template
+# DIT IT Localization 2023 Project Template
 
 ## Contents
 
@@ -12,17 +12,18 @@
 
 ## Overview
 
-This project contains the templates for the software localisation 
+This project contains the templates for the software localization 
 final project submission. 
 
 The project consists of a number of files and folders that should 
 be downloaded, filled, and submitted. 
 
-Regarding submission, as of today (March 23rd, 2020), I am 
-exploring whether to use Moodle, email, or github itself. 
+Regarding submission, as of today (March 20th, 2023), I am 
+exploring whether to use Moodle  or email. 
 
-Those students who opt for forking the repo and version-control 
-it here, are welcome to invite me to your project to keep track of 
+Those advanced students who opt for forking the repo and 
+version-control it here, are welcome to invite me to your project to 
+keep track of 
 the development. 
 
 ## Files and Folders
@@ -40,7 +41,7 @@ es, fr, or it; do not worry about this.)
 
 ### Additional materials folder
 
-In order to produce a high-quality localisation, you might need to 
+In order to produce a high-quality localization, you might need to 
 create some additional resources. These include translation 
 memories and glossaries. If you have created any of these, feel 
 free to put them in folder **additional_materials** (and do not 
@@ -49,11 +50,11 @@ forget to describe them in your written report).
 ### Written Report
 
 File written_report.txt contains a template on the report you should 
-submit, along with the localisation files and (potential) additional 
+submit, along with the localization files and (optional) additional 
 material. This is **just a template**, including the minimal reasonable 
 sections and corresponding contents. Feel free to add extra contents 
 as necessary. Think of this as a report you would send to your 
-employer/client when submitting your localisation (+ some extra 
+employer/client when submitting your localization (+ some extra 
 details for me to evaluate you)
 
 You can submit your written report in three alternative formats:
@@ -67,7 +68,7 @@ MS Word, or any other language/software, produce any of these
 formats.
 
 Unless you are adding figures or require some special formatting, 
-a txt file could be enough.
+a txt file should be enough.
 
 ### Academic Integrity
 
@@ -85,6 +86,6 @@ This file is derived from Columbia's Law School [certifications](https://www.law
 
 ## Integrity
 
-No misconduct will be tolerated. If you plagiarise, ghost write or 
+No misconduct will be tolerated. If you plagiarize, ghost write or 
 commit any other fault, you risk to fail the course. Please: 
 **play fair and avoid any source of conflict**. 
